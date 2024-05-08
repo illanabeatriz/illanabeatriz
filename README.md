@@ -9,7 +9,7 @@
     
   - 🔎 I'm looking for my first job opportunity.
   
-  - 💜 I would love to work with UI/UX design. 
+  - 💜 I would love to work with UI/UX design.
 </p>
 
 <div align="left">
